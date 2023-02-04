@@ -1,2 +1,2 @@
-# random-password-generator
-random password generator chrome extension made by me
+# KeyMixerPro
+A random password generator made by me as a project
