@@ -6,7 +6,7 @@
 
 html, body {
     font-size: 18px;
-    min-width: 300px;
+    min-width: 330px;
     min-height: 39px;
     font-family: Arial;
 }
@@ -18,7 +18,7 @@ html, body {
 
 .password__input{
     position: relative;
-    width: 100%;
+    width: 330px;
 }
 
 .password__input input{
@@ -27,7 +27,7 @@ html, body {
     outline: 0;
     height: 100px;
     background: #101820;
-    width: 100%;
+    width: 330px;
     color: #fbfdff;
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
