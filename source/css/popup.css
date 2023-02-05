@@ -193,7 +193,7 @@ html, body {
 }
 
 .password__length_container input[type=number]{
-    width: 50px;
+    width: 45px;
     height: 30px;
     border: 0;
     outline: 0;
@@ -207,7 +207,7 @@ html, body {
 }
 
 input[type=range] {
-    width: 150px;
+    width: 250px;
     margin: 5.85px 0;
     background-color: transparent;
     -webkit-appearance: none;
