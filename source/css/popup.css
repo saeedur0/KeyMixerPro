@@ -11,6 +11,12 @@ html, body {
     font-family: Arial;
 }
 
+.KeyMixerPro{
+    color: #FFFFFF;
+    background: #101820;
+    
+}
+
 .wrapper{
     padding: 20px;
     background: #101820;
