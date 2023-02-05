@@ -10,19 +10,18 @@
     "browser_action": {
       "default_popup": "source/html/popup.html",
       "default_icon": {
-        "16": "imgs/",
-        "32": "imgs/",
-        "48": "imgs/",
-        "128": "imgs/"
+        "16": "imgs/SVGS/password16.png",
+        "32": "imgs/SVGS/password32.png",
+        "48": "imgs/SVGS/password48.png",
+        "128": "imgs/SVGS/password128.png"
       }
     },
     "icons": {
-      "16": "imgs/",
-      "32": "imgs/",
-      "48": "imgs/",
-      "128": "imgs/"
+      "16": "imgs/SVGS/password16.png",
+      "32": "imgs/SVGS/password32.png",
+      "48": "imgs/SVGS/password48.png",
+      "128": "imgs/SVGS/password128.png"
     },
     "web_accessible_resources": [],
     "manifest_version": 2
-  }
-  
+    }

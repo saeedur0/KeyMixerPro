@@ -22,47 +22,47 @@ html, body {
 }
 
 .password__input input{
-    padding: 10px;
+    padding: 20px;
     border: 0;
     outline: 0;
-    height: 60px;
+    height: 100px;
     background: #101820;
     width: 100%;
     color: #fbfdff;
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
     font-weight: 700;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .password__input input::-webkit-input-placeholder {
     font-weight: 700;
     color: #fbfdff;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .password__input input::-moz-placeholder {
     font-weight: 700;
     color: #fbfdff;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .password__input input:-ms-input-placeholder {
     font-weight: 700;
     color: #fbfdff;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .password__input input::-ms-input-placeholder {
     font-weight: 700;
     color: #fbfdff;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .password__input input::placeholder {
     font-weight: 700;
     color: #fbfdff;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .password__controls{
